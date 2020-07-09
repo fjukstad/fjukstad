@@ -1,16 +1,12 @@
-### Hi there 👋
+I am a software developer at [DIPS AS](http://dips.no) with a PhD in computer
+science from UiT The Arctic University of Norway. In my PhD I worked on
+interactive systems for explorative analyses of data from the Norwegian Women
+and Cancer (NOWAC) study. I'm a former member of the [Biological Data Processing
+Lab (BDPS)](http://bdps.cs.uit.no/) in the [HPDS](http://hpds.cs.uit.no/)
+research group. I also organize the local [code club in
+Bodø](https://www.facebook.com/kodeklubbenbodo)! 
 
-<!--
-**fjukstad/fjukstad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You can reach out to me on [Twitter](https://twitter.com/fjukstad), or an e-mail
+at [bjornfjukstad@gmail.com](mailto:bjornfjukstad@gmail.com). I also have a site
+at [fjukstad.github.io](http://fjukstad.github.io) where I keep a, not so long,
+list of the research I've been involved with, as well as my newly started blog. 
