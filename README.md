@@ -1,4 +1,4 @@
-I am a software developer at [DIPS AS](http://dips.no) with a PhD in computer
+I am a software engineer at [DIPS AS](http://dips.no) with a PhD in computer
 science from UiT The Arctic University of Norway. In my PhD I worked on
 interactive systems for explorative analyses of data from the Norwegian Women
 and Cancer (NOWAC) study. I'm a former member of the [Biological Data Processing
